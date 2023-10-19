@@ -72,9 +72,16 @@ li{
 }
 img{
     width: 300px;
-    display: block;
-    align-self: center;
 }
 section.des{
     text-align: center;
+}
+footer{
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
 }
